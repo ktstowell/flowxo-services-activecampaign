@@ -1,0 +1,33 @@
+{
+  "name": "flowxo-services-activecampaign",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "activecampaign": "^1.1.1",
+    "flowxo-sdk": "^3.5.3",
+    "q": "^1.4.1"
+  },
+  "main": "lib/index.js",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-env": "^0.4.4",
+    "grunt-jsbeautifier": "^0.2.10",
+    "jshint-stylish": "^2.0.1",
+    "load-grunt-tasks": "^3.2.0",
+    "nopt-grunt-fix": "^1.0.0",
+    "semver": "^5.0.3",
+    "time-grunt": "^1.2.1"
+  },
+  "engines": {
+    "node": "^4.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/flowxo/flowxo-services-activecampaign"
+  },
+  "bugs": {
+    "url": "https://bitbucket.org/flowxo/flowxo-services-activecampaign/issues"
+  }
+}
