@@ -5,6 +5,7 @@
   "dependencies": {
     "activecampaign": "^1.1.1",
     "flowxo-sdk": "^3.5.3",
+    "lodash": "^3.10.1",
     "q": "^1.4.1"
   },
   "main": "lib/index.js",
