@@ -31,3 +31,7 @@ node_modules
 
 # Credentials file
 credentials.json
+
+# misc
+.vagrant
+.idea
