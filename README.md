@@ -58,3 +58,7 @@ grunt auth
 grunt run [--record --replay --name=<name>]
 
 ```
+
+## Issues
+
+Please submit them as you find them to the repo's issue page: https://github.com/ktstowell/flowxo-services-activecampaign/issues
