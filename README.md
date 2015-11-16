@@ -27,7 +27,7 @@ grunt run
 ```
 * Authentication
 
-	Alternative to typing a URL and KEY everytime you are able to create a `./.env` file:
+	Alternative to typing a URL and KEY everytime, you are able to create a `./.env` file:
 
 	``` bash
 	KEY=<key from your Active Campaign settings page>
